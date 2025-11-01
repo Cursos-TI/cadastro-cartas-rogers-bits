@@ -3,7 +3,7 @@
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das cartas
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
-
+// no nivel aventureiro é  adicionado a funcionalidade de calcular a densidade populacional e o PIB per capita de cada cidade.
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
